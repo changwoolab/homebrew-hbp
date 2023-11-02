@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class Espanso < Formula
+class hbp < Formula
     desc "Changwoolab's CLI utilities for avoiding boilerplates"
     homepage "https://github.com/changwoolab/hate-boilerplates"
     url "https://github.com/changwoolab/hate-boilerplates/releases/download/v0.2.0/hbp-mac.tar.gz"
