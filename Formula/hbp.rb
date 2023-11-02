@@ -1,4 +1,4 @@
-class hbp < Formula
+class Hbp < Formula
     desc "Changwoolab's CLI utilities for avoiding boilerplates"
     homepage "https://github.com/changwoolab/hate-boilerplates"
     url "https://github.com/changwoolab/hate-boilerplates/releases/download/v0.2.0/hbp-mac.tar.gz"
